@@ -1,0 +1,26 @@
+what is OOP ?
+
+oop stands for object oriented Programming(OOP) is a way of organizing code by using objects to represent real-world entity.
+
+*** what are the key concept to understand in OOP
+- Class
+- Object
+- Attribute
+- Method
+- 4 concept
+    - Inheritance 
+    - Encapsulation
+    - Polymorphism 
+    - Abstraction
+
+
+Use case :
+- Reusable 
+- Real-world Entities 
+- Encapsulation
+- Inheritance for Reusability and extensibility
+- Polymorphism
+- Design patterns
+- APIs and web services
+- Database Interaction(ORM)
+

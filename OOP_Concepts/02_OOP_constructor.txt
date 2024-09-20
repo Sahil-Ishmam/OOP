@@ -1,0 +1,6 @@
+OOP constructor
+- Constructors are special Methods(dandar method)
+- Automatically Called when object of a class is created
+- Constructor method is always named __init__
+- You cannot return anything from a constructor 
+

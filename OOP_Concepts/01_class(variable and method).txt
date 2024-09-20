@@ -1,0 +1,6 @@
+what is class variable and class Method ?
+- variable inside a class is call class variable
+- Method inside a class is call Method variable
+
+
+
